@@ -651,6 +651,9 @@ Responsive Css
   .nav-toggle{
     display: block;
   }
+  .header__btn {
+    display: none;
+}
 
   .primary-btn{
     font-size: var(--fs-16);
